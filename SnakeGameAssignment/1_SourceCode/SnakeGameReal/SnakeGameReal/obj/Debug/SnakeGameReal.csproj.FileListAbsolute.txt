@@ -1,0 +1,10 @@
+E:\SnakeGameReal\SnakeGameReal\obj\Debug\SnakeGameReal.csproj.AssemblyReference.cache
+E:\SnakeGameReal\SnakeGameReal\obj\Debug\SnakeGameReal.Properties.Resources.resources
+E:\SnakeGameReal\SnakeGameReal\obj\Debug\SnakeGameReal.csproj.GenerateResource.cache
+E:\SnakeGameReal\SnakeGameReal\obj\Debug\SnakeGameReal.csproj.CoreCompileInputs.cache
+E:\SnakeGameReal\SnakeGameReal\bin\Debug\SnakeGameReal.exe.config
+E:\SnakeGameReal\SnakeGameReal\bin\Debug\SnakeGameReal.exe
+E:\SnakeGameReal\SnakeGameReal\bin\Debug\SnakeGameReal.pdb
+E:\SnakeGameReal\SnakeGameReal\obj\Debug\SnakeGameReal.exe
+E:\SnakeGameReal\SnakeGameReal\obj\Debug\SnakeGameReal.pdb
+E:\SnakeGameReal\SnakeGameReal\bin\Debug\Sounds\game-over-kid-voice-clip-352738.wav

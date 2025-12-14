@@ -1,0 +1,14 @@
+E:\SnakeGameReal\SnakeGameReal\bin\Release\Sounds\game-over-kid-voice-clip-352738.wav
+E:\SnakeGameReal\SnakeGameReal\bin\Release\SnakeGameReal.exe.config
+E:\SnakeGameReal\SnakeGameReal\bin\Release\SnakeGameReal.exe.manifest
+E:\SnakeGameReal\SnakeGameReal\bin\Release\SnakeGameReal.application
+E:\SnakeGameReal\SnakeGameReal\bin\Release\SnakeGameReal.exe
+E:\SnakeGameReal\SnakeGameReal\bin\Release\SnakeGameReal.pdb
+E:\SnakeGameReal\SnakeGameReal\obj\Release\SnakeGameReal.csproj.AssemblyReference.cache
+E:\SnakeGameReal\SnakeGameReal\obj\Release\SnakeGameReal.Properties.Resources.resources
+E:\SnakeGameReal\SnakeGameReal\obj\Release\SnakeGameReal.csproj.GenerateResource.cache
+E:\SnakeGameReal\SnakeGameReal\obj\Release\SnakeGameReal.csproj.CoreCompileInputs.cache
+E:\SnakeGameReal\SnakeGameReal\obj\Release\SnakeGameReal.exe.manifest
+E:\SnakeGameReal\SnakeGameReal\obj\Release\SnakeGameReal.application
+E:\SnakeGameReal\SnakeGameReal\obj\Release\SnakeGameReal.exe
+E:\SnakeGameReal\SnakeGameReal\obj\Release\SnakeGameReal.pdb
